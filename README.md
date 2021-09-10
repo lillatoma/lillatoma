@@ -1,4 +1,15 @@
-### Hi there 👋
+
+  
+### <p align="center">Hi! 👋 My name is Toma Lilla.</p>
+******
+I am a graduated Maths student at the University of Debrecen,    
+and a self-taught C++ and Unity game developer.  
+Currently looking for job opportunities and gigs.
+
+- 🔭 I’m currently working on `Twitchbot.js`. 
+- 🌱 I’m currently learning `Node.JS` and `Unity`.
+- 🌱 In the future I plan learning `Java`.
+- 😄 Pronouns: `she/her`.
 
 <!--
 **zenkiisGlitchHub/zenkiisGlitchHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
