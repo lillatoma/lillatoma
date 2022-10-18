@@ -8,7 +8,7 @@ Currently looking for job opportunities and gigs.
 
 - 🔭 I’m currently working on `a roguelike game`. 
 - 🌱 I’m currently learning `Unity`.
-- 🌱 In the future I plan learning `Unreal Engine` and `Java`.
+- 🌱 In the future I plan learning `Unreal Engine` and `3D game development`.
 - 😄 Pronouns: `she/her`.
 
 <!--
