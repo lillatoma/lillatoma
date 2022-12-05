@@ -11,6 +11,23 @@ Currently looking for job opportunities and gigs.
 - 🌱 In the future I plan learning `Unreal Engine` and `3D game development`.
 - 😄 Pronouns: `she/her`.
 
+## Projects
+
+### DaiCastle:
+An offline 2D top-down 100-player battle-royale game. This game was made using C++ and SFML. I started and discontinued the project in 2019, but I picked it up later in 2021 to finish, and even update it. The game features a huge map with several points of interests, a complex AI, an inventory system, an unlockable item system, a replay system, and many more.
+
+ [DaiCastle Short Videos (imgur)](https://imgur.com/a/ILUIHUQ)
+
+### BombermanTypeCPP:
+My first Unreal Engine Project based on the well-known Bomberman game. I utilized Gameplay Ability System in the project.
+
+[BombermanTypeCPP Short Videos (imgur)](https://imgur.com/a/wFGIC6l)
+
+### Cell Wars:
+My oldest game project with graphics. It is a node-based strategy game with 15 levels. Later, I remade the game and added 2 new features: a skill system, and a random map generator in case the player finishes the first 15 maps.
+
+[Cell Wars Short Videos (imgur)](https://imgur.com/a/qzHgXpv)
+
 <!--
 **zenkiisGlitchHub/zenkiisGlitchHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
