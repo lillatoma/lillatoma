@@ -4,12 +4,9 @@
 ******
 I am a graduated Maths student at the University of Debrecen,    
 and a self-taught C++ and Unity game developer.  
-Currently looking for job opportunities and gigs.
+Currently employed at Yigsoft Kft. as a UI and Engine developer.
 
-- 🔭 I’m currently working on `a roguelike game`. 
-- 🌱 I’m currently learning `Unity`.
-- 🌱 In the future I plan learning `Unreal Engine` and `3D game development`.
-- 😄 Pronouns: `she/her`.
+
 
 ## Projects
 
